@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "titulo": "Código Limpo",
+    "subtitulo": "Um Manual de Boa Prática para Desenvolvimento Ágil de Software",
+    "autor": "Robert C. Martin",
+    "anoDeLancamento": 2008,
+    "sinopse": "Código Limpo ensina as melhores práticas para escrever um código legível, mantível e eficiente.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/41xShlnTZTL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "O Programador Pragmático",
+    "subtitulo": "Sua Jornada para a Maestria",
+    "autor": "Andrew Hunt, David Thomas",
+    "anoDeLancamento": 1999,
+    "sinopse": "O Programador Pragmático introduz práticas fundamentais que ajudam os desenvolvedores a serem mais eficazes em suas carreiras.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/41as+WafrFL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Padrões de Projeto",
+    "subtitulo": "Elementos de Software Orientado a Objetos Reutilizável",
+    "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "anoDeLancamento": 1994,
+    "sinopse": "Este livro apresenta padrões e princípios de design que ajudam a resolver problemas comuns no desenvolvimento de software.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/81gtKoapHFL.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Estruturas de Dados e Algoritmos em Java",
+    "subtitulo": "",
+    "autor": "Robert Lafore",
+    "anoDeLancamento": 2002,
+    "sinopse": "Um guia completo sobre estruturas de dados e algoritmos com implementações práticas em Java.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/51eL04ZF2nL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "JavaScript: O Guia Definitivo",
+    "subtitulo": "Um Guia Abrangente para a Linguagem de Programação Web",
+    "autor": "David Flanagan",
+    "anoDeLancamento": 2020,
+    "sinopse": "A bíblia do JavaScript, cobrindo a linguagem em profundidade com exemplos práticos.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/91hUer84PpL._SY385_.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Clean Architecture",
+    "subtitulo": "Uma Abordagem Artesanal para Estrutura e Design de Software",
+    "autor": "Robert C. Martin",
+    "anoDeLancamento": 2017,
+    "sinopse": "Uma abordagem focada em princípios de design de arquitetura para criar sistemas robustos.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/41-sN-mzwKL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Refatoração",
+    "subtitulo": "Aprimorando o Design de Código Existente",
+    "autor": "Martin Fowler",
+    "anoDeLancamento": 2018,
+    "sinopse": "Este livro explica como melhorar a qualidade de código sem alterar seu comportamento.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/4125lRe2M9L._SY445_SX342_.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Python Fluente",
+    "subtitulo": "Programação Clara, Concisa e Eficaz",
+    "autor": "Luciano Ramalho",
+    "anoDeLancamento": 2015,
+    "sinopse": "Uma abordagem completa ao Python, ideal para programadores que desejam escrever código conciso e eficaz.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/411qhFCwczL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "The Pragmatic Programmer",
+    "subtitulo": "From Journeyman to Master",
+    "autor": "Andrew Hunt, David Thomas",
+    "anoDeLancamento": 1999,
+    "sinopse": "Um guia essencial para desenvolvedores, cobrindo práticas pragmáticas para o sucesso a longo prazo.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/41uPjEenkFL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Design Patterns",
+    "subtitulo": "Elements of Reusable Object-Oriented Software",
+    "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "anoDeLancamento": 1994,
+    "sinopse": "O clássico livro que introduz padrões de design para o desenvolvimento de software orientado a objetos.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/81YsHe4woRL._SY385_.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Desvendando Angular",
+    "subtitulo": "Um Guia Prático para Desenvolvedores Web",
+    "autor": "Felipe Coury, Ari Lerner",
+    "anoDeLancamento": 2018,
+    "sinopse": "Um guia completo para dominar o Angular, cobrindo desde os fundamentos até as técnicas mais avançadas.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/61yD9NvmhvL._SY385_.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Aprendendo Node.js",
+    "subtitulo": "Construindo Aplicações Escaláveis com JavaScript",
+    "autor": "Shelley Powers",
+    "anoDeLancamento": 2016,
+    "sinopse": "Este livro oferece um guia para aprender Node.js e construir aplicações web escaláveis.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/51wX6cd1iiL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Arquitetura Limpa",
+    "subtitulo": "Como Estruturar Sistemas Complexos",
+    "autor": "Robert C. Martin",
+    "anoDeLancamento": 2018,
+    "sinopse": "Uma análise aprofundada de como construir sistemas de software bem organizados e fáceis de manter.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/41T8NdKFqEL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Head First Design Patterns",
+    "subtitulo": "A Brain-Friendly Guide",
+    "autor": "Eric Freeman, Elisabeth Robson",
+    "anoDeLancamento": 2004,
+    "sinopse": "Um guia acessível e prático para aprender padrões de design de software de forma intuitiva.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/518FqJvR9aL.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Introdução à Programação com C",
+    "subtitulo": "",
+    "autor": "Paul Deitel, Harvey Deitel",
+    "anoDeLancamento": 2013,
+    "sinopse": "Este livro oferece uma introdução detalhada à linguagem de programação C, abordando conceitos e práticas modernas.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/51fqiJy+VgL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "You Don't Know JS",
+    "subtitulo": "Scope & Closures",
+    "autor": "Kyle Simpson",
+    "anoDeLancamento": 2014,
+    "sinopse": "Uma série de livros que aborda tópicos avançados do JavaScript de forma acessível e profunda.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/71GsZGf3opL._SY385_.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "Effective Java",
+    "subtitulo": "",
+    "autor": "Joshua Bloch",
+    "anoDeLancamento": 2017,
+    "sinopse": "Um guia para boas práticas de programação em Java, baseado em anos de experiência e exemplos práticos.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/51TLbX9OSnL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Kubernetes: Up & Running",
+    "subtitulo": "Dive into the Future of Infrastructure",
+    "autor": "Kelsey Hightower, Brendan Burns, Joe Beda",
+    "anoDeLancamento": 2017,
+    "sinopse": "Um guia prático sobre como gerenciar infraestrutura e implantar aplicações utilizando Kubernetes.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/81fH7yJ8rsL._SY385_.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "Docker: Utilizando Containers no Desenvolvimento",
+    "subtitulo": "",
+    "autor": "Adrian Mouat",
+    "anoDeLancamento": 2016,
+    "sinopse": "Aprenda a usar Docker para criar ambientes isolados e replicáveis para desenvolvimento de software.",
+    "caminhoImagemCapa": "https://m.media-amazon.com/images/I/71uagb-QdBL._SY385_.jpg"
+  }
+]
